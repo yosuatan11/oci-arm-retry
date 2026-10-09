@@ -12,7 +12,7 @@ import os
 # ╚══════════════════════════════════════════════════════╝
 
 # ─── Configuration ───────────────────────────────────────
-COMPARTMENT_ID = "ocid1.user.oc1..aaaaaaaa3tj7sjnywvefpwggitedmkwcyyiwntjl3qrdv64n5bzky3c6f3pa"
+COMPARTMENT_ID = "ocid1.tenancy.oc1..aaaaaaaakyym3icwgv6ogit7uvvdlp4lcnhool5cczrriube5kzvmn5nyo3q"
 SSH_PUBLIC_KEY = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMFfiKYr2tcJwZxgWuVW8peSBwD4xGh5m2bxd/L0iy5h yosua@cachyos-x8664"  # Replace with your SSH public key (.pub file content)
 INSTANCE_NAME = "Hermes-A1"
 ARM_OCPUS = 2
